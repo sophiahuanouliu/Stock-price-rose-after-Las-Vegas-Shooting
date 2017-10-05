@@ -20,6 +20,7 @@ https://www.nytimes.com/2017/10/03/business/gun-stocks-vegas-shooting-trump.html
 
 #I chose D3.js, Plot.ly and Microsoft Visual Studio to plot stock prices for 3 companies under 4 massive shootings circumstances. There are 4 graphs in total. Frist of all, D3.js works on the web. Data visualization are only good if people can see them align with breaking news, such as Las Vegas Shooting, therefore there is no better place to see them on the internet. Second, D3 works well on graphics flexibility. Since it works seamlessly with existing web technologies, and can manipulate any part of the document object model, it is as flexible as the client side web technology stack (HTML, CSS, SVG). D3 also takes advantage of built-in functionality that the browser has, simplifying the developer’s job for mouse interaction. 
 
+https://plot.ly/~zhangr03/15/dashboard/
 As we can see from the stock price-Las Vegas Shooting visualization, the daily returns on 10/02/17, one day after the massive shooting, Sturm Ruger & Company Inc. increased 0.035%. In addition, American Outdoor Brands Corp increased 0.032%, compared to 09/29/2017. Analysts believe that this is because the outright gun control proposal, therefore gun lovers cannot wait to purchase guns. 
 
 Finally, pray for the Victims! 
